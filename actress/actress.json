@@ -1,0 +1,94 @@
+{
+    "best_actress": [
+        {
+            "year": "2013",
+            "nominated": [
+                "Ziyi Zhang",
+                "Tang Wei",
+                "Sammi Cheng",
+                "Paw Hee Ching",
+                "Cherry Ngan"
+            ]
+        },
+        {
+            "year": "2014",
+            "nominated": [
+                "Zhao Wei",
+                "Sandra Ng Kwan Yue",
+                "Tang Wei",
+                "Zhou Xun",
+                "Charlene Choi"
+            ]
+        },
+        {
+            "year": "2015",
+            "nominated": [
+                "Jessie Li",
+                "Miriam Yeung",
+                "Tang Wei",
+                "Sylvia Chang",
+                "Karena Lam"
+            ]
+        },
+        {
+            "year": "2016",
+            "nominated": [
+                "Kara Wai",
+                "Zhou Dongyu",
+                "Ma Sichun",
+                "Nina Paw",
+                "Tang Wei"
+            ]
+        },
+        {
+            "year": "2017",
+            "nominated": [
+                "Teresa Mo",
+                "Sylvia Chang",
+                "Zhou Xun",
+                "Stephy Tang",
+                "Chrissie Chau"
+            ]
+        },
+        {
+            "year": "2018",
+            "nominated": [
+                "Chloe Maayan",
+                "Charlene Choi",
+                "Zhang Jingchu",
+                "Jennifer Yu",
+                "Crisel Consunji"
+            ]
+        },
+        {
+            "year": "2019",
+            "nominated": [
+                "Zhou Dongyu",
+                "Sammi Cheng",
+                "Sammi Cheng",
+                "Cecilla Choi",
+                "Crisel Stephy Tang"
+            ]
+        },
+        {
+            "year": "2021",
+            "nominated": [
+                "Cya Liu",
+                "Chrissie Chau",
+                "Louise Wong",
+                "Sandra Ng",
+                "Gong Li"
+            ]
+        },
+        {
+            "year": "2022",
+            "nominated": [
+                "Sammi Cheng",
+                "Louisa So",
+                "Teresa Mo",
+                "Angela Yuen",
+                "Sylvia Chang"
+            ]
+        }
+    ]
+}
