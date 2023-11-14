@@ -1,3 +1,4 @@
+
 from collections import deque
 
 # initial state
@@ -76,3 +77,4 @@ if solution:
         print(f"Step {i+1}: {state}")
 
     # wangdongyang s235458
+
